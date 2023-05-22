@@ -1,0 +1,6 @@
+[flake8]
+max-line-length = 160
+
+[tool.black]
+line-length = 160
+skip-string-normalization = true
